@@ -1,1 +1,3 @@
 # basicportfolio
+
+first homework
